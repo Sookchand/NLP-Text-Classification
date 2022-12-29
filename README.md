@@ -10,7 +10,7 @@ This project is a text classification project using the 20 Newsgroups dataset. T
 
 ## Demo
 
-Insert gif or link to demo
+![image](https://user-images.githubusercontent.com/34344439/209942253-04a68147-cbce-409a-8ef2-2e6419ffa98d.png)
 
 
 ## Tech Stack
